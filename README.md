@@ -6,7 +6,7 @@ A progress report on self-assigned coursework
 
 ### Courses
 
-- [ ] [Android Basics in Kotlin](android-native--google--android-basics-in-kotlin.md)
+- [ ] [Android Basics in Kotlin](courses/android-native--google--android-basics-in-kotlin.md)
 
 ### Certifications
 
