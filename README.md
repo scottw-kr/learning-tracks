@@ -20,7 +20,6 @@ A progress report on self-assigned coursework
 
 - [ ] [🏅 Associate Android Developer Certification](https://developers.google.com/certification/associate-android-developer)
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" width="20" height="20"> Kotlin
-
+## <img src="https://kotlinlang.org/assets/images/apple-touch-icon.png?v2" width="20" height="20"> Kotlin
 
 - [ ] [Kotlin Bootcamp for Programmers](courses/kotlin--google--kotlin-bootcamp-for-programmers.md)
