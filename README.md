@@ -1,6 +1,6 @@
 # Learning Tracks
 
-A progress report on self-assigned coursework
+A journal on self-assigned coursework
 
 ## <img src="https://www.freepngimg.com/download/android/58505-system-application-operating-logo-android-software.png" width="20" height="20"> Android Native
 
