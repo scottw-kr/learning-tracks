@@ -1,5 +1,6 @@
-# Android Basics in Kotlin
-[Certification](https://developers.google.com/certification/associate-android-developer)
+# Android Basics in Kotlin 
+
+[📗 Course](https://developer.android.com/courses/android-basics-kotlin/course)
 
 ## Unit 1: Kotlin basics 
 - [ ] Introduction to Kotlin
