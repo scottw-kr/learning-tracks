@@ -2,7 +2,6 @@
 [Certification](https://developers.google.com/certification/associate-android-developer)
 
 ## Unit 1: Kotlin basics 
-
 - [ ] Introduction to Kotlin
 - [ ] Create your first app
 - [ ] Build a basic layout
