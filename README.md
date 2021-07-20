@@ -6,8 +6,8 @@ A journal on self-assigned coursework
 
 ### Resources
 
--  [Vocabulary for Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab)
--  [Codelabs](https://codelabs.developers.google.com/?cat=android)
+- [Vocabulary for Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab)
+- [Codelabs](https://codelabs.developers.google.com/?cat=android)
 
 ### Courses
 
