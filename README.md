@@ -23,3 +23,4 @@ A progress report on self-assigned coursework
 ## <img src="https://kotlinlang.org/assets/images/apple-touch-icon.png?v2" width="20" height="20"> Kotlin
 
 - [ ] [Kotlin Bootcamp for Programmers](courses/kotlin--google--kotlin-bootcamp-for-programmers.md)
+- [ ] [Koans](courses/kotlin--kotlin-docs--koans.md)
