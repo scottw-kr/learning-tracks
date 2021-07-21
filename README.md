@@ -24,3 +24,9 @@ A journal on self-assigned coursework
 
 - [ ] [Kotlin Bootcamp for Programmers](courses/kotlin--google--kotlin-bootcamp-for-programmers.md)
 - [ ] 🚧 [Koans](courses/kotlin--kotlin-docs--koans.md)
+
+## Azure
+
+
+## Kubernetes
+- [ ] From Dev To DevOps Wizard
