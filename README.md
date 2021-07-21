@@ -26,7 +26,7 @@ A journal on self-assigned coursework
 - [ ] 🚧 [Koans](courses/kotlin--kotlin-docs--koans.md)
 
 ## Azure
+- [ ] Microsoft Azure Training
 
-
-## Kubernetes
-- [ ] From Dev To DevOps Wizard
+## DevOps
+- [ ] [From Dev To DevOps Wizard](courses/devops--egghead--from-dev-to-devops-wizard.md)
