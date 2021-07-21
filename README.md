@@ -25,8 +25,10 @@ A journal on self-assigned coursework
 - [ ] [Kotlin Bootcamp for Programmers](courses/kotlin--google--kotlin-bootcamp-for-programmers.md)
 - [ ] 🚧 [Koans](courses/kotlin--kotlin-docs--koans.md)
 
-## Azure
+## <img src="https://swimburger.net/media/ppnn3pcl/azure.png" width="20" height="20"> Azure
+
 - [ ] Microsoft Azure Training
 
-## DevOps
+## <img src="https://st3.depositphotos.com/9987990/16592/v/600/depositphotos_165929826-stock-illustration-devops-logotype-sign-of-infinity.jpg" height="20"> DevOps
+
 - [ ] [From Dev To DevOps Wizard](courses/devops--egghead--from-dev-to-devops-wizard.md)
