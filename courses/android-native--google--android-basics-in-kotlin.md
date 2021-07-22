@@ -11,7 +11,7 @@
 
 ## Unit 2: Layouts
 
-- [ ] Get user input in an app: Part 1
+- [ ] 🚧 Get user input in an app: Part 1
 - [ ] Get user input in an app: Part 2
 - [ ] Display a scrollable list
 
