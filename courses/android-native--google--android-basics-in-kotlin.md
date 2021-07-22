@@ -7,7 +7,7 @@
 - [x] Introduction to Kotlin
 - [x] Create your first app
 - [x] Build a basic layout
-- [ ] Add a button to an app
+- [x] Add a button to an app
 
 ## Unit 2: Layouts
 
