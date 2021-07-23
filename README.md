@@ -15,8 +15,8 @@ A journal on self-assigned coursework
 
 - [ ] 🚧  [Android Basics in Kotlin](courses/android-native--google--android-basics-in-kotlin.md)
 - [ ] [Jetpack Compose](courses/android-native--google--jetpack-compose.md)
-- [ ] [Android Coroutines](courses/android-native--android-native--google--android-coroutines.md)
-- [ ] [Advanced Android in Kotlin](courses/android-native--google--advanced-android-development.md)
+- [ ] [Android Coroutines](courses/android-native--google--android-coroutines.md)
+- [ ] [Advanced Android Development](courses/android-native--google--advanced-android-development.md)
 
 #### Ray Wenderlich
 
