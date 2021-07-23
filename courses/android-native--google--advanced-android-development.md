@@ -1,4 +1,4 @@
-# Advanced Android Development
+#  Advanced Android in Kotlin
 
 [📗 Course](https://developer.android.com/courses/kotlin-android-advanced/overview)
 
