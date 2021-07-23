@@ -12,7 +12,13 @@ A journal on self-assigned coursework
 #### Courses
 
 - [ ] 🚧 [Android Basics in Kotlin](courses/android-native--google--android-basics-in-kotlin.md)
+- [ ] 🏗[Wenderlich's Android and Kotlin for Beginners](https://www.raywenderlich.com/android/paths/learn)
 - [ ] [Jetpack Compose](courses/android-native--google--jetpack-compose.md)
+- [ ] 🏗[Wenderlich's Jetpack Compose](https://www.raywenderlich.com/21959310-jetpack-compose)
+- [ ] 🏗[Wenderlich's Android User Interfaces](https://www.raywenderlich.com/android/paths/androiduserinterface)
+- [ ] 🏗[Wenderlich's Android Data and Networking](https://www.raywenderlich.com/android/paths/androiddata)
+- [ ] 🏗[Wenderlich's Android IDEs and Tools](https://www.raywenderlich.com/android/paths/androidtools)
+- [ ] 🏗[Wenderlich's Software Engineering for Android](https://www.raywenderlich.com/android/paths/androidsoftware)
 - [ ] [Android Coroutines](courses/android-native--android-native--google--android-coroutines.md)
 - [ ] [Advanced Android Development](courses/android-native--google--advanced-android-development.md)
 
