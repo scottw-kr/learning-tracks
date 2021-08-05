@@ -13,11 +13,11 @@
 
 - [x] Get user input in an app: Part 1
 - [x] Get user input in an app: Part 2
-- [ ] 🚧  Display a scrollable list
+- [x] Display a scrollable list
 
 ## Unit 3: Navigation
 
-- [ ] Navigate between screens
+- [ ] 🚧 Navigate between screens
 - [ ] Introduction to the Navigation component
 - [ ] Architecture components
 - [ ] Advanced navigation app examples
