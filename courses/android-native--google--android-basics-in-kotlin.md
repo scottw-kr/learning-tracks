@@ -17,8 +17,8 @@
 
 ## Unit 3: Navigation
 
-- [ ] 🚧 Navigate between screens
-- [ ] Introduction to the Navigation component
+- [x] Navigate between screens
+- [ ] 🚧 Introduction to the Navigation component
 - [ ] Architecture components
 - [ ] Advanced navigation app examples
 
